@@ -1,1 +1,1 @@
-This exercise expanded on Exercise 1 by adding an emission table and solving which route combo emits the least amount of CO2. As in the first exercise, I opted to use a dash as to me it illustrates a route better.
+This exercise expanded on Exercise 1 by adding an emission table and solving which route combo emits the least amount of CO2.
