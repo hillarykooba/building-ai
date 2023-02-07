@@ -1,0 +1,1 @@
+This exercise explored the hill climbing algorithm. 

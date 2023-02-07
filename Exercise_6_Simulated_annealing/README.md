@@ -1,0 +1,1 @@
+The last exercise combined all of the above to try improve the hill climbing algorithm. 

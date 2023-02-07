@@ -1,0 +1,1 @@
+This exercise was teaching random in Python. 
